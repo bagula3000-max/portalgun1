@@ -1,0 +1,10 @@
+{
+  "item.portalgun.portal_gun": "Портальная пушка",
+  "entity.portalgun.v1": "V1",
+  "entity.portalgun.verity": "Верити",
+  "message.portalgun.enter": "Портал открыт. Арена V1.",
+  "message.portalgun.leave": "Портал закрыт. Вы вернулись.",
+  "message.portalgun.no_arena": "Измерение арены не найдено. Проверьте, что мод установлен корректно.",
+  "message.portalgun.verity_arrives": "Верити врывается на арену с клинком в руке.",
+  "message.portalgun.verity_leaves": "Верити убирает клинок и уходит."
+}

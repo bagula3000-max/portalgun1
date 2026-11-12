@@ -1,0 +1,10 @@
+{
+  "item.portalgun.portal_gun": "Portal Gun",
+  "entity.portalgun.v1": "V1",
+  "entity.portalgun.verity": "Verity",
+  "message.portalgun.enter": "Portal opened. V1 arena.",
+  "message.portalgun.leave": "Portal closed. You are back.",
+  "message.portalgun.no_arena": "Arena dimension not found. Check that the mod is installed correctly.",
+  "message.portalgun.verity_arrives": "Verity bursts into the arena, blade in hand.",
+  "message.portalgun.verity_leaves": "Verity sheathes the blade and leaves."
+}
